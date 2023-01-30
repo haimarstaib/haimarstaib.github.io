@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Buchbesprechung on Haimar Staib</title>
+    <link>https://haimarstaib.github.io/tags/buchbesprechung/</link>
+    <description>Recent content in Buchbesprechung on Haimar Staib</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 30 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://haimarstaib.github.io/tags/buchbesprechung/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Testseite haimarstaib.github.io</title>
+      <link>https://haimarstaib.github.io/pages/testseite-haimarstaib.github.io/</link>
+      <pubDate>Mon, 30 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://haimarstaib.github.io/pages/testseite-haimarstaib.github.io/</guid>
+      <description>Das ist eine Testseite für haimarstaib.github.io. Was soll hier getestet werden? Ob sich tatsächlich und möglichst effizient ein persönlicher Blog mittels Logseq und Hugo auf Github Pages betreiben lässt?!
+Klappt das nun mit dem Template? Wie sieht die Seite aus? Kann das Template angepasst werden?
+Fragen über Fragen.</description>
+    </item>
+    
+  </channel>
+</rss>
