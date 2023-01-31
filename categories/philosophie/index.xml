@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tag1 on Haimar Staib</title>
-    <link>https://haimarstaib.github.io/tags/tag1/</link>
-    <description>Recent content in Tag1 on Haimar Staib</description>
+    <title>Philosophie on Haimar Staib</title>
+    <link>https://haimarstaib.github.io/categories/philosophie/</link>
+    <description>Recent content in Philosophie on Haimar Staib</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 31 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://haimarstaib.github.io/tags/tag1/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 31 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://haimarstaib.github.io/categories/philosophie/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Philosophie Testseite</title>
       <link>https://haimarstaib.github.io/pages/philosophie-testseite/</link>
