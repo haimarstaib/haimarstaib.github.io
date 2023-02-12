@@ -2,44 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://haimarstaib.github.io/</loc>
-    <lastmod>2023-02-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://haimarstaib.github.io/pages/</loc>
-    <lastmod>2023-02-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://haimarstaib.github.io/pages/testartikel-f%C3%BCr-blog-haimarstaib.github.io-f%C3%BCr-logseq-zur-weiterverarbeitung/</loc>
-    <lastmod>2023-02-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://haimarstaib.github.io/categories/</loc>
-    <lastmod>2023-01-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://haimarstaib.github.io/categories/literatur/</loc>
-    <lastmod>2023-01-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://haimarstaib.github.io/pages/literatur-testseite/</loc>
-    <lastmod>2023-01-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://haimarstaib.github.io/categories/philosophie/</loc>
-    <lastmod>2023-01-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://haimarstaib.github.io/pages/philosophie-testseite/</loc>
-    <lastmod>2023-01-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://haimarstaib.github.io/tags/tag1/</loc>
-    <lastmod>2023-01-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://haimarstaib.github.io/tags/tag2/</loc>
-    <lastmod>2023-01-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://haimarstaib.github.io/tags/tag3/</loc>
-    <lastmod>2023-01-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://haimarstaib.github.io/tags/</loc>
-    <lastmod>2023-01-31T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://haimarstaib.github.io/archives/</loc>
   </url><url>
+    <loc>https://haimarstaib.github.io/categories/</loc>
+  </url><url>
+    <loc>https://haimarstaib.github.io/</loc>
+  </url><url>
     <loc>https://haimarstaib.github.io/search/</loc>
+  </url><url>
+    <loc>https://haimarstaib.github.io/tags/</loc>
   </url>
 </urlset>
